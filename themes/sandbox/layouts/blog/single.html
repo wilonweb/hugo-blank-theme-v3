@@ -29,7 +29,7 @@
                     </div>
                 </div>
                 {{ with .Params.images }}
-                <figure class="title-image"><img src="{{ index . 0 }}" alt=""></figure>
+                <figure class="title-image"><img src="{{ index . 0 | relLangURL }}" alt=""></figure>
                 {{ end }}
                 <div class="content">
                     {{ .Content }}
