@@ -1,13 +1,13 @@
 ---
 title: "Hello You"
 date: 2023-08-23T19:13:06+02:00
-images: ["images/blog/enfantDuRetro.jpg"]
+images: ["static/images/blog/enfantDuRetro.jpg"]
 categories: ["cool"]
 draft: false
 genres: ["techno", "soud-design"]
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ac eros id mi vulputate efficitur. Nullam nisl est, semper nec diam quis, tempus venenatis leo. Praesent sodales non felis nec rhoncus. Suspendisse faucibus consectetur augue pulvinar lobortis. Nullam vehicula accumsan mi, ut pellentesque sem. Vestibulum molestie urna id est ornare egestas. Integer efficitur ante et dolor accumsan varius et quis dui. Vestibulum eu sapien ligula. Nullam aliquet tristique hendrerit. Ut tempus dui ut mattis consectetur. Duis porta semper felis, id lacinia dui egestas eget. Nam imperdiet turpis quis erat laoreet porta. Sed et metus mattis, aliquam ex non, molestie turpis.
+Super Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ac eros id mi vulputate efficitur. Nullam nisl est, semper nec diam quis, tempus venenatis leo. Praesent sodales non felis nec rhoncus. Suspendisse faucibus consectetur augue pulvinar lobortis. Nullam vehicula accumsan mi, ut pellentesque sem. Vestibulum molestie urna id est ornare egestas. Integer efficitur ante et dolor accumsan varius et quis dui. Vestibulum eu sapien ligula. Nullam aliquet tristique hendrerit. Ut tempus dui ut mattis consectetur. Duis porta semper felis, id lacinia dui egestas eget. Nam imperdiet turpis quis erat laoreet porta. Sed et metus mattis, aliquam ex non, molestie turpis.
 
 Donec interdum neque est, quis lobortis felis vulputate vitae. Nunc pulvinar neque nec ornare fringilla. Vivamus consequat velit ac est dapibus, ut aliquet ligula tincidunt. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Mauris mollis efficitur augue vel rhoncus. Duis ut velit at dolor pellentesque euismod vel nec metus. Pellentesque dictum metus sit amet tincidunt scelerisque. Donec vitae viverra sem, luctus tempus velit. Curabitur dictum rhoncus tempus. Vestibulum laoreet sollicitudin nibh id tincidunt. Sed in magna quis enim elementum tempus.
 
