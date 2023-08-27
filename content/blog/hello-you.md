@@ -1,7 +1,7 @@
 ---
 title: "Hello You"
 date: 2023-08-23T19:13:06+02:00
-images: ["/images/blog/enfantDuRetro.jpg"]
+images: ["images/blog/enfantDuRetro.jpg"]
 categories: ["cool"]
 draft: false
 genres: ["techno", "soud-design"]
