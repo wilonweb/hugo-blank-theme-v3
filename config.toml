@@ -48,7 +48,7 @@ url = "/protection-des-donnees"
 
 [params]
     author = "Alex"
-    authorImage = "/images/avatar-musk.jpg"
+    authorImage = "images/avatar-musk.jpg"
     mainSections = ["tutos","blog"]
 
 

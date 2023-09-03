@@ -3,8 +3,8 @@ title: "A Propos"
 date: 2020-04-08T11:15:50+02:00
 draft: false
 layout: a-propos
-heroimage: /images/Chaton.jpeg
-herotext: Je m'appelle Whisper, pour vous servir !
+heroimage: images/Chaton.jpeg
+herotext: Je m'appelle Whisper, pour vous servir5 !
 ---
 
 ## A propos de ce super site
