@@ -2,9 +2,9 @@
 title: "Mon Second Article"
 date: 2023-08-11T17:45:55+02:00
 draft: false
-images: ["images/blog/enfantDuRetro.jpg"]
-categories: ["test", "cool"]
-genres: ["techno", "soud-design"]
+images: ["images/chat1.webp"]
+categories: ["test", "cool", "chaton"]
+genres: ["techno", "soud-design", "comment"]
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quis est eget magna dapibus gravida id at felis. Vestibulum semper eget mi in pulvinar. Nullam urna ipsum, viverra quis erat sit amet, ultrices efficitur sem. Etiam tincidunt porttitor tellus at laoreet. Vivamus vehicula leo eu nisl iaculis, sit amet interdum mi convallis. Donec et felis fermentum, ullamcorper odio nec, vestibulum enim. Praesent ut dui auctor, pellentesque mi eu, interdum lectus. Suspendisse varius porttitor vehicula. Curabitur fringilla tincidunt justo sed luctus.

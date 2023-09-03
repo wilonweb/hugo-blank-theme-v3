@@ -1,10 +1,11 @@
 {{ define "main" }}
 <div class="container">
     <div class="section">
-        <a href="/genres/">Liste des genres</a>
+        <a href="{{ .Site.Params.genres_path | relLangURL }}">Liste des genres</a>
         <div class="content">
             <h1>Genres: {{ .Title }}</h1>
             {{ .Content }}
+            <p>template hugo-blank-theme-v3\layouts\genres\taxonomy.html</p>
         </div>
         <div class="columns is-multiline">
             {{ range .Paginator.Pages }}

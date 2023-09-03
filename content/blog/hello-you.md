@@ -4,7 +4,7 @@ date: 2023-08-23T19:13:06+02:00
 images: ["images/blog/enfantDuRetro.jpg"]
 categories: ["cool"]
 draft: false
-genres: ["techno", "soud-design"]
+genres: ["techno", "soud-design", "superGenre"]
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ac eros id mi vulputate efficitur. Nullam nisl est, semper nec diam quis, tempus venenatis leo. Praesent sodales non felis nec rhoncus. Suspendisse faucibus consectetur augue pulvinar lobortis. Nullam vehicula accumsan mi, ut pellentesque sem. Vestibulum molestie urna id est ornare egestas. Integer efficitur ante et dolor accumsan varius et quis dui. Vestibulum eu sapien ligula. Nullam aliquet tristique hendrerit. Ut tempus dui ut mattis consectetur. Duis porta semper felis, id lacinia dui egestas eget. Nam imperdiet turpis quis erat laoreet porta. Sed et metus mattis, aliquam ex non, molestie turpis.

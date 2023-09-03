@@ -58,7 +58,7 @@
 </style>
 
 <div class="hero is-dark is-medium" {{ with .Params.heroimage }}
-    style="background: url({{ . }}) center center; background-size:cover;" {{ end }}>
+    style="background: url({{ . | relLangURL }}) center center; background-size:cover;" {{ end }}>
     <div class="hero-head">
         <div class="container">
             <h1 class="title is-2 has-background-primary narrow-background">

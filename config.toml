@@ -15,11 +15,11 @@ paginate = 2
   url = "/blog"
 
 [[menu.main]]
-  name = "categories"
+  name = "Categories"
   url = "/categories"  
   
 [[menu.main]]
-  name = "genres"
+  name = "Genres"
   url = "/genres"  
  
   
@@ -50,6 +50,8 @@ url = "/protection-des-donnees"
     author = "Alex"
     authorImage = "images/avatar-musk.jpg"
     mainSections = ["tutos","blog"]
+    genres_path = "genres/"
+    
 
 
 # Déclaration des taxonomie

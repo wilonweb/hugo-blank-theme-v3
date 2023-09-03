@@ -1,7 +1,7 @@
 {{ define "main" }}
 
 <div class="hero is-dark is-fullheight-with-navbar" {{ with .Params.heroimage }}
-    style="background: url({{ index . 0 | relLangURL }}) center top; background-size:cover;" {{ end }}>
+    style="background: url({{ . | relLangURL }}) center top; background-size:cover;" {{ end }}>
     <div class="hero-body">
         <div class="container max-800px">
             <h1 class="title is-1 has-background-primary narrow-background">
