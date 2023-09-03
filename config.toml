@@ -1,4 +1,4 @@
-baseURL = 'https://wilonweb.github.io/hugo-blank-theme-v3/'
+baseURL = 'http://localhost:1313/hugo-blank-theme-v3/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'sandbox'
