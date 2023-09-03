@@ -14,4 +14,4 @@ D'apres le [tuto bout 2 code](https://bout2code.fr/tutos/creer-un-site-avec-hugo
 
 ### Septembre 2023
 
-Bug d'affichage de l'image hero image
+Bug d'affichage de l'image hero image cf [post sur le forum](https://discourse.gohugo.io/t/problem-with-hero-image/46015)
